@@ -1,0 +1,14 @@
+allure-pytest==2.13.5
+Jinja2
+jsonpath
+pluggy
+pycparser
+PyMySQL
+PySocks
+pytest
+PyYAML
+pyyaml-include==1.3.1
+requests
+selenium
+SQLAlchemy
+exceptiongroup

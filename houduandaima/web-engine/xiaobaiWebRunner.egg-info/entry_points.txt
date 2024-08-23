@@ -1,0 +1,2 @@
+[console_scripts]
+webrun = webrun.cli:run

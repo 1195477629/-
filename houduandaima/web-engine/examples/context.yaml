@@ -1,0 +1,38 @@
+_browser:
+  grid_url: "http://192.168.1.117:4444/wd/hub"
+  driver_path: D:\\u01\\tool\\chromedriver.exe
+  capability:
+    browserName: chrome
+    # 谷歌浏览器专用配置（按需配置）
+    # goog:chromeOptions: 
+      # args:
+      # 设置是否为 无头 隐藏模式（按需配置）
+      # - "--headless"
+      # 设置浏览器数据保存位置（按需配置）
+      # - "--user-data-dir=d:\\tttt"
+    # 火狐浏览器专用配置（按需配置）
+    # moz:firefoxOptions: 
+      # args:
+      # 设置是否为 无头 隐藏模式（按需配置）
+      # - "--headless"
+    
+
+_database:
+  mysql001:
+    host: 192.168.1.111
+    port: 3306
+    user: root
+    password: root
+    db: novel_plus
+  mysql002:
+    host: 
+    port: 
+    user: 
+    password: 
+    db: 
+  redis:
+    host: 
+    port: 
+    password: 
+    db: 
+
